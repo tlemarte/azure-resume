@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionString":"AccountEndpoint=https://azure-resume-tlemarte.documents.azure.com:443/;AccountKey=Vg1iCMBivcOeiD9gQVbJ70wrsOD7kzWfLIx4AbgYRvNl3mqOfmyiFNEUFYLVyncZ5flenMcK73gzUx3EACteaQ==;"
+  },
+  "Host":{
+    "CORS": "*"
+  }
+}
